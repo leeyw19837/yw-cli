@@ -1,6 +1,6 @@
 {
-  "name": "cli",
-  "version": "1.0.0",
+  "name": "leeyw-cli",
+  "version": "1.0.1",
   "description": "基于vue的脚手架工程",
   "type": "module",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "leeyw19837",
   "bin": {
-    "cli": "./bin/index.js"
+    "yw-cli": "./bin/index.js"
   },
   "license": "ISC",
   "dependencies": {
